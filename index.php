@@ -100,7 +100,7 @@
 
 	// getFiles('folder');
 	//c 1-43 готово
-echo '1230'';
+tempnam('folder', 'prefix');
 ?>
 
 
